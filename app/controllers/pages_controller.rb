@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def index
   end
-  def contactUs
+  def contactUS
   end
 end
